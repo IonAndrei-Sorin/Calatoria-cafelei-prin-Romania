@@ -1,0 +1,19 @@
+File name, Location, Path
+Orders, Brasov, CSV/Brasov/Orders.csv
+Orders, Timisoara, CSV/Timisoara/Orders.csv
+Orders, Iasi, CSV/Iasi/Orders.csv
+Orders, Bucuresti, CSV/Bucuresti/Orders.csv
+Orders, Cluj-Napoca, CSV/Cluj-Napoca/Orders.csv
+Raports, Brasov, CSV/Brasov/Raports.csv
+Raports, Timisoara, CSV/Timisoara/Raports.csv
+Raports, Iasi, CSV/Iasi/Raports.csv
+Raports, Bucuresti, CSV/Bucuresti/Raports.csv
+Raports, Cluj-Napoca, CSV/Cluj-Napoca/Raports.csv
+Workers, Brasov, CSV/Brasov/Workers.csv
+Workers, Timisoara, CSV/Timisoara/Workers.csv
+Workers, Iasi, CSV/Iasi/Workers.csv
+Workers, Bucuresti, CSV/Bucuresti/Workers.csv
+Workers, Cluj-Napoca, CSV/Cluj-Napoca/Workers.csv
+Products, General, CSV/General/Products.csv
+Special_Events, General, CSV/General/Special_Events.csv
+Paths, General, CSV/General/Paths.csv
