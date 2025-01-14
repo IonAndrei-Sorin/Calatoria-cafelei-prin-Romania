@@ -1,19 +1,28 @@
-File name, Location, Path
-Orders, Brasov, CSV/Brasov/Orders.csv
-Orders, Timisoara, CSV/Timisoara/Orders.csv
-Orders, Iasi, CSV/Iasi/Orders.csv
-Orders, Bucuresti, CSV/Bucuresti/Orders.csv
-Orders, Cluj-Napoca, CSV/Cluj-Napoca/Orders.csv
-Raports, Brasov, CSV/Brasov/Raports.csv
-Raports, Timisoara, CSV/Timisoara/Raports.csv
-Raports, Iasi, CSV/Iasi/Raports.csv
-Raports, Bucuresti, CSV/Bucuresti/Raports.csv
-Raports, Cluj-Napoca, CSV/Cluj-Napoca/Raports.csv
-Workers, Brasov, CSV/Brasov/Workers.csv
-Workers, Timisoara, CSV/Timisoara/Workers.csv
-Workers, Iasi, CSV/Iasi/Workers.csv
-Workers, Bucuresti, CSV/Bucuresti/Workers.csv
-Workers, Cluj-Napoca, CSV/Cluj-Napoca/Workers.csv
-Products, General, CSV/General/Products.csv
-Special_Events, General, CSV/General/Special_Events.csv
-Paths, General, CSV/General/Paths.csv
+File name,Location,Path
+Orders,Brasov,CSV/Brasov/Orders.csv
+Orders,Timisoara,CSV/Timisoara/Orders.csv
+Orders,Iasi,CSV/Iasi/Orders.csv
+Orders,Bucuresti,CSV/Bucuresti/Orders.csv
+Orders,Cluj-Napoca,CSV/Cluj-Napoca/Orders.csv
+Reports,Brasov,CSV/Brasov/Reports.csv
+Reports,Timisoara,CSV/Timisoara/Reports.csv
+Reports,Iasi,CSV/Iasi/Reports.csv
+Reports,Bucuresti,CSV/Bucuresti/Reports.csv
+Reports,Cluj-Napoca,CSV/Cluj-Napoca/Reports.csv
+Workers,Brasov,CSV/Brasov/Workers.csv
+Workers,Timisoara,CSV/Timisoara/Workers.csv
+Workers,Iasi,CSV/Iasi/Workers.csv
+Workers,Bucuresti,CSV/Bucuresti/Workers.csv
+Workers,Cluj-Napoca,CSV/Cluj-Napoca/Workers.csv
+Products,Bucuresti,CSV/Bucuresti/Products.csv
+Products,Brasov,CSV/Brasov/Products.csv
+Products,Cluj-Napoca,CSV/Cluj-Napoca/Products.csv
+Products,Iasi,CSV/Iasi/Products.csv
+Products,Timisoara,CSV/Timisoara/Products.csv
+Events,Brasov,CSV/Brasov/Events.csv
+Events,Timisoara,CSV/Timisoara/Events.csv
+Events,Iasi,CSV/Iasi/Events.csv
+Events,Bucuresti,CSV/Bucuresti/Events.csv
+Events,Cluj-Napoca,CSV/Cluj-Napoca/Events.csv
+Loyal Clients,General,CSV/General/LoyalClients.csv
+Paths,General,CSV/General/Paths.csv

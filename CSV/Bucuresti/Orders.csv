@@ -1,6 +1,29 @@
-Client name, Order date, Order, Total
-Oliver Bennett, 2025-10-01, Flat White, 4.00
-Mia Richards, 2025-10-02, Macchiato, 3.75
-Lucas Campbell, 2025-10-03, Cortado, 4.25
-Emily Foster, 2025-10-04, Ristretto, 3.00
-Noah Parker, 2025-10-05, Affogato, 5.50
+Client Name,Order Date,Order,Quantity,Total
+Sarah Adams,2025-01-09,Espresso,3,7.5
+William Carter,2025-01-09,Latte,2,7
+James Bennett,2025-01-09,Cappuccino,1,3
+Emma Taylor,2025-01-09,Americano,3,6
+Olivia Clark,2025-01-09,Mocha,2,7.5
+Lucas Moore,2025-01-09,Macchiato,1,3.25
+Mia Evans,2025-01-09,Flat White,3,10.5
+Liam Turner,2025-01-09,Affogato,2,8
+Sophia Hill,2025-01-09,Iced Coffee,1,3
+Charlotte Hall,2025-01-09,Cold Brew,4,14
+Amelia Wright,2025-01-09,Hot Chocolate,2,6
+Emily Young,2025-01-09,Tea,2,4
+Jack Thomas,2025-01-09,Chai Latte,3,9.75
+Henry Martin,2025-01-09,Matcha Latte,2,8
+Lucas Lewis,2025-01-09,Smoothie,1,4.5
+Ella Davis,2025-01-09,Lemonade,3,7.5
+Harper White,2025-01-09,Milkshake,2,7.5
+Grace Parker,2025-01-09,Iced Tea,1,2.5
+Daniel Harris,2025-01-09,Frappuccino,1,4.25
+Lily Robinson,2025-01-09,Cheesecake,2,9
+Ava Lee,2025-01-09,Brownie,1,2.75
+Michael Scott,2025-01-09,Muffin,3,7.5
+Noah Green,2025-01-09,Croissant,2,4
+Isabella King,2025-01-09,Tiramisu,2,10
+Olivia Walker,2025-01-09,Macaron,4,6
+Sophia Phillips,2025-01-09,Donut,1,1.75
+Charlotte Edwards,2025-01-14,Cupcake,3,9
+Andrei,2025-01-14,Donut;Macaron,1;1,3.25

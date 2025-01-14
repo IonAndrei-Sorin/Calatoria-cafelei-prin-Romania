@@ -1,4 +1,4 @@
-Name, Role, Shift start, Shift end, Salary
+Name,Role,Shift Start,Shift End,Salary
 Alice Johnson,Manager,09:00,19:00,3500
 Bob Smith,Barista,08:00,16:00,2000
 Diana White,Waiter,12:00,22:00,1800

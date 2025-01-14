@@ -1,0 +1,3 @@
+C:/Users/Ion Andrei Sorin/OneDrive/Documentos/Trabajo/Universidad/Anul 2/Semestrul 1/POO/Proiect Laborator/Calatoria-cafelei-prin-Romania/build/CMakeFiles/CalatoriaCafelei.dir
+C:/Users/Ion Andrei Sorin/OneDrive/Documentos/Trabajo/Universidad/Anul 2/Semestrul 1/POO/Proiect Laborator/Calatoria-cafelei-prin-Romania/build/CMakeFiles/edit_cache.dir
+C:/Users/Ion Andrei Sorin/OneDrive/Documentos/Trabajo/Universidad/Anul 2/Semestrul 1/POO/Proiect Laborator/Calatoria-cafelei-prin-Romania/build/CMakeFiles/rebuild_cache.dir

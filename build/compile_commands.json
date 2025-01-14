@@ -1,0 +1,56 @@
+[
+{
+  "directory": "C:/Users/Ion Andrei Sorin/OneDrive/Documentos/Trabajo/Universidad/Anul 2/Semestrul 1/POO/Proiect Laborator/Calatoria-cafelei-prin-Romania/build",
+  "command": "C:/Tools/mysys64/ucrt64/bin/g++.exe  @CMakeFiles/CalatoriaCafelei.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles/CalatoriaCafelei.dir/Source_Code/Main.cpp.obj -c \"C:/Users/Ion Andrei Sorin/OneDrive/Documentos/Trabajo/Universidad/Anul 2/Semestrul 1/POO/Proiect Laborator/Calatoria-cafelei-prin-Romania/Source Code/Main.cpp\"",
+  "file": "C:/Users/Ion Andrei Sorin/OneDrive/Documentos/Trabajo/Universidad/Anul 2/Semestrul 1/POO/Proiect Laborator/Calatoria-cafelei-prin-Romania/Source Code/Main.cpp",
+  "output": "CMakeFiles/CalatoriaCafelei.dir/Source_Code/Main.cpp.obj"
+},
+{
+  "directory": "C:/Users/Ion Andrei Sorin/OneDrive/Documentos/Trabajo/Universidad/Anul 2/Semestrul 1/POO/Proiect Laborator/Calatoria-cafelei-prin-Romania/build",
+  "command": "C:/Tools/mysys64/ucrt64/bin/g++.exe  @CMakeFiles/CalatoriaCafelei.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles/CalatoriaCafelei.dir/Source_Code/Menu.cpp.obj -c \"C:/Users/Ion Andrei Sorin/OneDrive/Documentos/Trabajo/Universidad/Anul 2/Semestrul 1/POO/Proiect Laborator/Calatoria-cafelei-prin-Romania/Source Code/Menu.cpp\"",
+  "file": "C:/Users/Ion Andrei Sorin/OneDrive/Documentos/Trabajo/Universidad/Anul 2/Semestrul 1/POO/Proiect Laborator/Calatoria-cafelei-prin-Romania/Source Code/Menu.cpp",
+  "output": "CMakeFiles/CalatoriaCafelei.dir/Source_Code/Menu.cpp.obj"
+},
+{
+  "directory": "C:/Users/Ion Andrei Sorin/OneDrive/Documentos/Trabajo/Universidad/Anul 2/Semestrul 1/POO/Proiect Laborator/Calatoria-cafelei-prin-Romania/build",
+  "command": "C:/Tools/mysys64/ucrt64/bin/g++.exe  @CMakeFiles/CalatoriaCafelei.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles/CalatoriaCafelei.dir/Source_Code/Orders.cpp.obj -c \"C:/Users/Ion Andrei Sorin/OneDrive/Documentos/Trabajo/Universidad/Anul 2/Semestrul 1/POO/Proiect Laborator/Calatoria-cafelei-prin-Romania/Source Code/Orders.cpp\"",
+  "file": "C:/Users/Ion Andrei Sorin/OneDrive/Documentos/Trabajo/Universidad/Anul 2/Semestrul 1/POO/Proiect Laborator/Calatoria-cafelei-prin-Romania/Source Code/Orders.cpp",
+  "output": "CMakeFiles/CalatoriaCafelei.dir/Source_Code/Orders.cpp.obj"
+},
+{
+  "directory": "C:/Users/Ion Andrei Sorin/OneDrive/Documentos/Trabajo/Universidad/Anul 2/Semestrul 1/POO/Proiect Laborator/Calatoria-cafelei-prin-Romania/build",
+  "command": "C:/Tools/mysys64/ucrt64/bin/g++.exe  @CMakeFiles/CalatoriaCafelei.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles/CalatoriaCafelei.dir/Source_Code/PathFinder.cpp.obj -c \"C:/Users/Ion Andrei Sorin/OneDrive/Documentos/Trabajo/Universidad/Anul 2/Semestrul 1/POO/Proiect Laborator/Calatoria-cafelei-prin-Romania/Source Code/PathFinder.cpp\"",
+  "file": "C:/Users/Ion Andrei Sorin/OneDrive/Documentos/Trabajo/Universidad/Anul 2/Semestrul 1/POO/Proiect Laborator/Calatoria-cafelei-prin-Romania/Source Code/PathFinder.cpp",
+  "output": "CMakeFiles/CalatoriaCafelei.dir/Source_Code/PathFinder.cpp.obj"
+},
+{
+  "directory": "C:/Users/Ion Andrei Sorin/OneDrive/Documentos/Trabajo/Universidad/Anul 2/Semestrul 1/POO/Proiect Laborator/Calatoria-cafelei-prin-Romania/build",
+  "command": "C:/Tools/mysys64/ucrt64/bin/g++.exe  @CMakeFiles/CalatoriaCafelei.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles/CalatoriaCafelei.dir/Source_Code/Product.cpp.obj -c \"C:/Users/Ion Andrei Sorin/OneDrive/Documentos/Trabajo/Universidad/Anul 2/Semestrul 1/POO/Proiect Laborator/Calatoria-cafelei-prin-Romania/Source Code/Product.cpp\"",
+  "file": "C:/Users/Ion Andrei Sorin/OneDrive/Documentos/Trabajo/Universidad/Anul 2/Semestrul 1/POO/Proiect Laborator/Calatoria-cafelei-prin-Romania/Source Code/Product.cpp",
+  "output": "CMakeFiles/CalatoriaCafelei.dir/Source_Code/Product.cpp.obj"
+},
+{
+  "directory": "C:/Users/Ion Andrei Sorin/OneDrive/Documentos/Trabajo/Universidad/Anul 2/Semestrul 1/POO/Proiect Laborator/Calatoria-cafelei-prin-Romania/build",
+  "command": "C:/Tools/mysys64/ucrt64/bin/g++.exe  @CMakeFiles/CalatoriaCafelei.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles/CalatoriaCafelei.dir/Source_Code/Reports.cpp.obj -c \"C:/Users/Ion Andrei Sorin/OneDrive/Documentos/Trabajo/Universidad/Anul 2/Semestrul 1/POO/Proiect Laborator/Calatoria-cafelei-prin-Romania/Source Code/Reports.cpp\"",
+  "file": "C:/Users/Ion Andrei Sorin/OneDrive/Documentos/Trabajo/Universidad/Anul 2/Semestrul 1/POO/Proiect Laborator/Calatoria-cafelei-prin-Romania/Source Code/Reports.cpp",
+  "output": "CMakeFiles/CalatoriaCafelei.dir/Source_Code/Reports.cpp.obj"
+},
+{
+  "directory": "C:/Users/Ion Andrei Sorin/OneDrive/Documentos/Trabajo/Universidad/Anul 2/Semestrul 1/POO/Proiect Laborator/Calatoria-cafelei-prin-Romania/build",
+  "command": "C:/Tools/mysys64/ucrt64/bin/g++.exe  @CMakeFiles/CalatoriaCafelei.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles/CalatoriaCafelei.dir/Source_Code/SpecialEvent.cpp.obj -c \"C:/Users/Ion Andrei Sorin/OneDrive/Documentos/Trabajo/Universidad/Anul 2/Semestrul 1/POO/Proiect Laborator/Calatoria-cafelei-prin-Romania/Source Code/SpecialEvent.cpp\"",
+  "file": "C:/Users/Ion Andrei Sorin/OneDrive/Documentos/Trabajo/Universidad/Anul 2/Semestrul 1/POO/Proiect Laborator/Calatoria-cafelei-prin-Romania/Source Code/SpecialEvent.cpp",
+  "output": "CMakeFiles/CalatoriaCafelei.dir/Source_Code/SpecialEvent.cpp.obj"
+},
+{
+  "directory": "C:/Users/Ion Andrei Sorin/OneDrive/Documentos/Trabajo/Universidad/Anul 2/Semestrul 1/POO/Proiect Laborator/Calatoria-cafelei-prin-Romania/build",
+  "command": "C:/Tools/mysys64/ucrt64/bin/g++.exe  @CMakeFiles/CalatoriaCafelei.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles/CalatoriaCafelei.dir/Source_Code/User.cpp.obj -c \"C:/Users/Ion Andrei Sorin/OneDrive/Documentos/Trabajo/Universidad/Anul 2/Semestrul 1/POO/Proiect Laborator/Calatoria-cafelei-prin-Romania/Source Code/User.cpp\"",
+  "file": "C:/Users/Ion Andrei Sorin/OneDrive/Documentos/Trabajo/Universidad/Anul 2/Semestrul 1/POO/Proiect Laborator/Calatoria-cafelei-prin-Romania/Source Code/User.cpp",
+  "output": "CMakeFiles/CalatoriaCafelei.dir/Source_Code/User.cpp.obj"
+},
+{
+  "directory": "C:/Users/Ion Andrei Sorin/OneDrive/Documentos/Trabajo/Universidad/Anul 2/Semestrul 1/POO/Proiect Laborator/Calatoria-cafelei-prin-Romania/build",
+  "command": "C:/Tools/mysys64/ucrt64/bin/g++.exe  @CMakeFiles/CalatoriaCafelei.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles/CalatoriaCafelei.dir/Source_Code/Worker.cpp.obj -c \"C:/Users/Ion Andrei Sorin/OneDrive/Documentos/Trabajo/Universidad/Anul 2/Semestrul 1/POO/Proiect Laborator/Calatoria-cafelei-prin-Romania/Source Code/Worker.cpp\"",
+  "file": "C:/Users/Ion Andrei Sorin/OneDrive/Documentos/Trabajo/Universidad/Anul 2/Semestrul 1/POO/Proiect Laborator/Calatoria-cafelei-prin-Romania/Source Code/Worker.cpp",
+  "output": "CMakeFiles/CalatoriaCafelei.dir/Source_Code/Worker.cpp.obj"
+}
+]

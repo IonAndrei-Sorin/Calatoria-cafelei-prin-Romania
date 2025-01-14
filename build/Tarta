@@ -1,0 +1,41 @@
+Name,Price,Cost,Stock
+Espresso,2.5,1,100
+Latte,3.5,1.5,120
+Cappuccino,3,1.2,90
+Americano,2,0.8,110
+Mocha,3.75,1.75,130
+Macchiato,3.25,1.3,140
+Flat White,3.5,1.5,80
+Affogato,4,2,70
+Iced Coffee,3,1.2,60
+Cold Brew,3.5,1.5,150
+Hot Chocolate,3,1.5,100
+Tea,2,0.8,90
+Chai Latte,3.25,1.3,110
+Matcha Latte,4,2,130
+Smoothie,4.5,2.5,140
+Lemonade,2.5,1,80
+Milkshake,3.75,1.75,70
+Iced Tea,2.5,1,60
+Frappuccino,4.25,2.2,150
+Cheesecake,4.5,2.5,100
+Brownie,2.75,1.2,120
+Muffin,2.5,1,90
+Croissant,2,0.8,110
+Tiramisu,5,2.8,130
+Macaron,1.5,0.7,140
+Donut,1.75,0.9,80
+Cupcake,3,1.5,70
+Pancake,3.25,1.6,60
+Waffle,3.5,1.7,150
+Hot Chocolate,3,1.5,100
+Tea,2,0.8,90
+Chai Latte,3.25,1.3,110
+Matcha Latte,4,2,130
+Smoothie,4.5,2.5,140
+Lemonade,2.5,1,80
+Milkshake,3.75,1.75,70
+Iced Tea,2.5,1,60
+Frappuccino,4.25,2.2,150
+Tarta,12,3,50
+Tarta de mere,15,5,45

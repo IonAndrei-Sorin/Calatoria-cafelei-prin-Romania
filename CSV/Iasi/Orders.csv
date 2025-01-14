@@ -1,6 +1,31 @@
-Client name, Order date, Order, Total
-Lily Scott, 2025-10-01, Mocha, 5.00
-Jack Turner, 2025-10-02, Tea, 3.00
-Ava Morgan, 2025-10-03, Cheesecake, 4.50
-Ethan Mitchell, 2025-10-04, Frappuccino, 6.00
-Sophia Lee, 2025-10-05, Pancake, 4.00
+Client Name,Order Date,Order,Quantity,Total
+Emma Miller,2025-01-12,Espresso,2,5.00
+Liam Smith,2025-01-12,Latte,1,3.50
+Olivia Davis,2025-01-12,Cappuccino,2,6.00
+Ava Martinez,2025-01-12,Americano,3,6.00
+Noah Johnson,2025-01-12,Mocha,2,7.50
+Charlotte Lewis,2025-01-12,Macchiato,4,13.00
+Sophia Brown,2025-01-12,Flat White,2,7.00
+Lucas Anderson,2025-01-12,Affogato,1,4.00
+Oliver Lee,2025-01-12,Iced Coffee,3,9.00
+Mia Robinson,2025-01-12,Cold Brew,2,7.00
+Amelia Harris,2025-01-12,Hot Chocolate,1,3.00
+Emily Young,2025-01-12,Tea,1,2.00
+Ethan Hall,2025-01-12,Chai Latte,2,6.50
+Grace Thompson,2025-01-12,Matcha Latte,1,4.00
+Harper Scott,2025-01-12,Smoothie,3,13.50
+Logan Edwards,2025-01-12,Lemonade,2,5.00
+Sophia Taylor,2025-01-12,Milkshake,1,3.75
+Jack Walker,2025-01-12,Iced Tea,1,2.50
+Henry Adams,2025-01-12,Frappuccino,2,8.50
+Ella Green,2025-01-12,Cheesecake,1,4.50
+Isabella Baker,2025-01-12,Brownie,2,5.50
+Michael Rivera,2025-01-12,Muffin,1,2.50
+Lucas Bell,2025-01-12,Croissant,4,8.00
+Sophia Ramirez,2025-01-12,Tiramisu,2,10.00
+Ava White,2025-01-12,Macaron,3,4.50
+Elijah Foster,2025-01-12,Donut,2,3.50
+Charlotte King,2025-01-12,Cupcake,2,6.00
+James Thompson,2025-01-12,Pancake,3,9.75
+Liam Scott,2025-01-12,Waffle,2,7.00
+Emma Clark,2025-01-12,Lemonade,1,2.50

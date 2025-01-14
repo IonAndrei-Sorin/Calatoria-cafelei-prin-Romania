@@ -1,6 +1,31 @@
-Client name, Order date, Order, Total
-Chloe Anderson, 2025-10-01, Americano, 3.50
-William Harris, 2025-10-02, Latte, 4.00
-Benjamin King, 2025-10-03, Brownie, 2.50
-Grace Adams, 2025-10-04, Muffin, 2.75
-James Cooper, 2025-10-05, Hot Chocolate, 3.00
+Client Name,Order Date,Order,Quantity,Total
+John Wilson,2025-01-13,Espresso,3,7.50
+Sophia Johnson,2025-01-13,Latte,2,7.00
+Liam Smith,2025-01-13,Cappuccino,1,3.00
+Ella Brown,2025-01-13,Americano,2,4.00
+Mia Martinez,2025-01-13,Mocha,3,11.25
+Ethan Adams,2025-01-13,Macchiato,1,3.25
+Lucas Lee,2025-01-13,Flat White,2,7.00
+Grace Walker,2025-01-13,Affogato,1,4.00
+Chloe Davis,2025-01-13,Iced Coffee,3,9.00
+Henry Clark,2025-01-13,Cold Brew,2,7.00
+Liam Hill,2025-01-13,Hot Chocolate,1,3.00
+Ava White,2025-01-13,Tea,1,2.00
+Isabella Baker,2025-01-13,Chai Latte,2,6.50
+Emily Lewis,2025-01-13,Matcha Latte,1,4.00
+Emma Robinson,2025-01-13,Smoothie,3,13.50
+Sophia Adams,2025-01-13,Lemonade,2,5.00
+Noah King,2025-01-13,Milkshake,1,3.75
+Jack Hall,2025-01-13,Iced Tea,2,5.00
+Olivia Perez,2025-01-13,Frappuccino,1,4.25
+Harper Martinez,2025-01-13,Cheesecake,2,9.00
+Elijah Edwards,2025-01-13,Brownie,1,2.75
+Michael Lopez,2025-01-13,Muffin,3,7.50
+Charlotte Moore,2025-01-13,Croissant,2,4.00
+Henry Wright,2025-01-13,Tiramisu,1,5.00
+Grace Taylor,2025-01-13,Macaron,3,4.50
+Oliver Harris,2025-01-13,Donut,2,3.50
+Lucas Cooper,2025-01-13,Cupcake,1,3.00
+Ella Brown,2025-01-13,Pancake,3,9.75
+Aiden Young,2025-01-13,Waffle,2,7.00
+Amelia Ramirez,2025-01-13,Lemonade,1,2.50
